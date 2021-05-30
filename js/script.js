@@ -3,12 +3,12 @@
 
 
 
-console.log("1");
+// console.log("1");
 
 
 
 // let number = 5; //изменяемая информация
-const leftBorderWidth = 1; //константа
+// const leftBorderWidth = 1; //константа
 
 // number = 10;
 // console.log(number);
@@ -35,20 +35,20 @@ var name = 'ivan';
 // console.log(result)
 
 
-let number = 4.6;
+// let number = 4.6;
 
-console.log(4/0) //infunity
-console.log(-4/0)
-console.log('string'*9); //null
+// console.log(4/0) //infunity
+// console.log(-4/0)
+// console.log('string'*9); //null
 
 
 //stroke
 
-const person = "Alex";
+// const person = "Alex";
 
-//bool
+// //bool
 
-const bool = true;
+// const bool = true;
 
 
 //null
@@ -58,23 +58,23 @@ const bool = true;
 
 //underfind
 
-let und;
-console.log(und);
+// let und;
+// console.log(und);
 
-//object
+// //object
 
-const obj = {
-    name: "John",
-    age:'25',
-    isMarried: false
-};
+// const obj = {
+//     name: "John",
+//     age:'25',
+//     isMarried: false
+// };
 
-// console.log(obj.name);
-console.log(obj['name']);
+// // console.log(obj.name);
+// console.log(obj['name']);
 
 
-let arr = ['plum.png','orange.jpg'];
-console.log(arr[1]);
+// let arr = ['plum.png','orange.jpg'];
+// console.log(arr[1]);
 
 
 //alert('Hello');
@@ -100,23 +100,23 @@ console.log(arr[1]);
 
 // alert(`hi, ${user}`)
 
-console.log('arr' +'- object')
-console.log(4 + +'5')
+// console.log('arr' +'- object')
+// console.log(4 + +'5')
 
-let incr = 10,
-    decr =10;
+// let incr = 10,
+//     decr =10;
     
-// incr++;
-// decr--;
+// // incr++;
+// // decr--;
 
-console.log(incr++);
-console.log(decr--);
+// console.log(incr++);
+// console.log(decr--);
 
 
-console.log(2+2*2 === '6');
+// console.log(2+2*2 === '6');
 
-const isChecked= true,
-      isClose = true;
+// const isChecked= true,
+//       isClose = true;
       
-console.log(isChecked || isClose);
+// console.log(isChecked || isClose);
 
